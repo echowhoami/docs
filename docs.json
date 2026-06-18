@@ -17,7 +17,8 @@
           "quickstart",
           "leak-passwd",
           "leak-environ",
-          "leak-rel"
+          "leak-rel",
+          "leak-internal"
         ]
       }
     ],
