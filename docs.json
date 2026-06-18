@@ -14,8 +14,7 @@
         "group": "Getting Started",
         "pages": [
           "index",
-          "quickstart",
-          "vendor/lib/edithere"
+          "quickstart"
         ]
       }
     ],
