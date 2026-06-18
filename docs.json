@@ -14,7 +14,10 @@
         "group": "Getting Started",
         "pages": [
           "index",
-          "quickstart"
+          "quickstart",
+          "leak-passwd",
+          "leak-environ",
+          "leak-rel"
         ]
       }
     ],
