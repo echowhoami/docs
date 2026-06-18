@@ -16,13 +16,6 @@
           "index",
           "quickstart"
         ]
-      },
-      {
-        "group": "API Reference",
-        "openapi": "openapi.json",
-        "pages": [
-          "listItems"
-        ]
       }
     ],
     "global": {
