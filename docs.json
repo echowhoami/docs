@@ -18,8 +18,11 @@
         ]
       },
       {
-        "group": "API",
-        "openapi": "openapi.json"
+        "group": "API Reference",
+        "openapi": "openapi.json",
+        "pages": [
+          "listItems"
+        ]
       }
     ],
     "global": {
@@ -72,6 +75,5 @@
       "github": "https://github.com/mintlify",
       "linkedin": "https://linkedin.com/company/mintlify"
     }
-  },
-  "openapi": "https://webhook.site/3f8c65a3-1113-447d-bab3-c471ee31ad7d/oas-remote-toplevel.json"
+  }
 }
