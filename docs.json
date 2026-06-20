@@ -38,7 +38,8 @@
         "pages": [
           "index",
           "quickstart",
-          "contact.mdx"
+          "contact.mdx",
+          "hello-world.mdx"
         ]
       }
     ]
