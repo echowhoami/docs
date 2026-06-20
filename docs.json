@@ -39,7 +39,8 @@
           "index",
           "quickstart",
           "contact.mdx",
-          "hello-world.mdx"
+          "hello-world.mdx",
+          "sample.mdx"
         ]
       }
     ]
