@@ -40,7 +40,8 @@
           "quickstart",
           "contact.mdx",
           "hello-world.mdx",
-          "sample.mdx"
+          "sample.mdx",
+          "readme.mdx"
         ]
       }
     ]
